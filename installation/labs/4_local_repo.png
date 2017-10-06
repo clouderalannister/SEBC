@@ -1,0 +1,9 @@
+Loaded plugins: amazon-id, rhui-lb, search-disabled-repos, security
+cloudera-manager                                                                                                                                   |  951 B     00:00
+mysql-connectors-community                                                                                                                         | 2.5 kB     00:00
+mysql-tools-community                                                                                                                              | 2.5 kB     00:00
+mysql56-community                                                                                                                                  | 2.5 kB     00:00
+rhui-REGION-client-config-server-6                                                                                                                 | 2.9 kB     00:00
+rhui-REGION-rhel-server-releases                                                                                                                   | 3.5 kB     00:00
+rhui-REGION-rhel-server-releases/primary_db                                                                                                        |  58 MB     00:00
+rhui-REGION-rhel-server-rh-common                                                                                                                  | 3.8 kB     00:00
